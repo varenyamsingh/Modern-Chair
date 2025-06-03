@@ -288,7 +288,7 @@ h5 {
   font-size: 14px;
   line-height: 2;
   height: 48px;
-  border-radius: 4px;
+  border-radius: 35px;
   width: 210px;
   letter-spacing: 1px;
   display: inline-flex;
@@ -316,6 +316,7 @@ h5 {
   height: 100%;
   content: "";
   z-index: -1;
+  border-radius: 35px;
   background-color: #944852;
   transition: background-color 250ms 300ms ease;
 }
